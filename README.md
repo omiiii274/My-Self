@@ -1,13 +1,15 @@
 # 💫 About Me:
-Data Scientist & AI Engineer | MSc @ Oxford Brookes | Specialized in RWE, HEOR, and Financial Risk
+I am a Data Scientist & AI Engineer specializing in high-consequence predictive modeling across the Healthcare (RWE/HEOR) and Financial Services sectors. With an MSc from Oxford Brookes, my work focuses on bridging the gap between raw, unstructured data and production-grade clinical or financial intelligence.
 
-Cross-Sector Predictive Modeling: 3+ years of experience delivering end-to-end solutions, from MIMIC-III clinical readmission models to addressing extreme class imbalance in Financial Fraud Detection.
+What I Bring to the Table:
 
-Evidence Development & Stats: Expert in building RWE pipelines and HEOR dashboards (R Shiny/PostgreSQL) using advanced statistical modeling including GLMs and survival analysis.
+Domain-Specific ML: I don't just "run models." I build solutions tailored to sector-specific challenges, such as handling extreme class imbalance in Credit Card Fraud or navigating the complexities of the MIMIC-III clinical database for patient readmission.
 
-NLP Automation: Developed an Active Learning tool for SLR screening that reduced manual workloads by 60% and built high-accuracy sentiment and classification pipelines.
+Linguistic Intelligence: I specialize in NLP Automation, having engineered an Active Learning tool for Systematic Literature Review (SLR) that achieved a 60% reduction in manual screening workloads.
 
-Production-Grade Engineering: Published IEEE researcher proficient in shipping "audit-ready" code using Docker, dbt, AWS, and PostgreSQL.
+Statistical Rigor: Expert in Evidence Development, utilizing R Shiny and GLMs to transform raw NHS and global health data into decision-support dashboards.
+
+Production-Ready Engineering: As a published IEEE researcher, I treat code as a product. Every repository I build is containerized with Docker, version-controlled, and "audit-ready" for deployment in regulated environments like Finance and MedTech.
 
 
 ## 🌐 Socials:
