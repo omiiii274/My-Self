@@ -1,5 +1,13 @@
 # 💫 About Me:
-Healthcare Data Specialist: MSc Data Science & AI candidate focused on bridging clinical data with actionable evidence.<br><br>Evidence Development: Proven track record in building RWE pipelines, MIMIC-III predictive models, and HEOR dashboards.<br><br>NLP Automation: Developed an Active Learning tool that reduced systematic review screening workloads by 60%.<br><br>Technical Engineering: Expert in ensuring clinical data integrity using a professional PostgreSQL, dbt, and Docker stack.
+Data Scientist & AI Engineer | MSc @ Oxford Brookes | Specialized in RWE, HEOR, and Financial Risk
+
+Cross-Sector Predictive Modeling: 3+ years of experience delivering end-to-end solutions, from MIMIC-III clinical readmission models to addressing extreme class imbalance in Financial Fraud Detection.
+
+Evidence Development & Stats: Expert in building RWE pipelines and HEOR dashboards (R Shiny/PostgreSQL) using advanced statistical modeling including GLMs and survival analysis.
+
+NLP Automation: Developed an Active Learning tool for SLR screening that reduced manual workloads by 60% and built high-accuracy sentiment and classification pipelines.
+
+Production-Grade Engineering: Published IEEE researcher proficient in shipping "audit-ready" code using Docker, dbt, AWS, and PostgreSQL.
 
 
 ## 🌐 Socials:
